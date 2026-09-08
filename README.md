@@ -86,6 +86,8 @@ tft = ST7789V(spi1, cs=9, dc=12, rst=13, width=320, height=240)
 
 2026-9-1更新复兴内3C （感谢BH6RQJ提供）
 
+2026-9-8上传基于原作者5.2固件的更改（仅需要更新lbj_receiver.py文件即可）
+
 
 
 
